@@ -1,0 +1,57 @@
+
+    .detalheExibir
+{
+   background-color:#FFF;
+   border: 1px dotted #000000;
+   border-radius:1px;
+}
+
+     .adet
+     {
+         color: #1b6d85;
+         margin-left: 10px;
+         margin-top: 10px;
+     }
+
+     .h4detalhe
+     {
+         color: #1b6d85;
+         margin-left: 10px;
+     }
+     
+     .spanDetalhe
+     {
+         color: #000000;
+         margin-left: 30px;
+         font-size: larger;
+
+       
+     }
+     
+     .aExit
+     {
+         margin-top: 10px;
+         margin-left: 10px;
+     }
+     
+     .aReceberHoje{
+        background-color: #DBA901; 
+     }
+     
+     .pagoHoje {
+        background-color: #67b168;
+     }
+     
+     .liquidado {
+         background-color: #204d74;
+     }
+     
+     .emAberto{
+         background-color: #c9302c;
+     }
+     
+     .corFonteTotalizador{
+         color: #FFF;
+         font-size: larger;
+     }
+
